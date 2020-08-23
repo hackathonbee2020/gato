@@ -1,0 +1,13 @@
+.user-panel > .info > span {
+  line-height: 29px;
+}
+
+.info-box > .info-box-icon {
+  color: #E9ECEF;
+  font-size: 24px;;
+}
+
+.info-box > .info-box-content > .info-box-text {
+  color: #007BFF;
+  font-weight: 500;
+}
